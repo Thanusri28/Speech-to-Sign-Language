@@ -1,0 +1,177 @@
+Word: i am going to the store, GIF Found: True, Feedback: Good
+Word: i am going to the store, GIF Found: True, Feedback: Bad
+Word: hello, GIF Found: True, Feedback: Good
+Word: hello, GIF Found: True, Feedback: Bad
+Word: hello, GIF Found: True, Feedback: Bad
+Word: hello, GIF Found: True, Feedback: Good
+Word: hello, GIF Found: True, Feedback: Good
+Word: good morning, GIF Found: True, Feedback: Good
+Word: good morning, GIF Found: True, Feedback: Bad
+Word: hello, GIF Found: True, Feedback: Good
+Word: hello, GIF Found: True, Feedback: Bad
+Word: hello, Predicted: hello, Score: 100, Feedback: Good
+Word: good morning, Predicted: good morning, Score: 100, Feedback: Good
+Word: good afternoon, Predicted: good afternoon, Score: 100, Feedback: Good
+Word: hello everyone, Predicted: hello, Score: 90, Feedback: Good
+Word: i am happy to help with that, GIF Found: True, Score: 90, Feedback: Good
+Word: can i help you, GIF Found: True, Score: 86, Feedback: Bad
+Word: i will keep you updated on the progress, GIF Found: True, Score: 86, Feedback: Bad
+Word: good morning, GIF Found: True, Score: 100, Feedback: Good
+Word: good morning, GIF Found: True, Score: 100, Feedback: Good
+Word: good morning, GIF Found: True, Score: 100, Feedback: Good
+Word: good morning, GIF Found: True, Score: 100, Feedback: Good
+Word: good morning, GIF Found: True, Score: 100, Feedback: Good
+Word: good morning, GIF Found: True, Score: 100, Feedback: Good
+Word: good morning, GIF Found: True, Score: 100, Feedback: Good
+Word: good morning, GIF Found: True, Score: 100, Feedback: Good
+Word: good morning, GIF Found: True, Score: 100, Feedback: Good
+Word: good morning, GIF Found: True, Score: 100, Feedback: Good
+Word: good morning, GIF Found: True, Score: 100, Feedback: Good
+Word: are you free this weekend, GIF Found: True, Score: 86, Feedback: Good
+Word: i am thinking, GIF Found: True, Score: 100, Feedback: Good
+Word: i am thinking, GIF Found: True, Score: 100, Feedback: Good
+Word: i am thinking, GIF Found: True, Score: 100, Feedback: Good
+Word: i am thinking, GIF Found: True, Score: 100, Feedback: Good
+Word: i am thinking, GIF Found: True, Score: 100, Feedback: Good
+Word: i am thinking, GIF Found: True, Score: 100, Feedback: Good
+Word: i am thinking, GIF Found: True, Score: 100, Feedback: Good
+Word: i am thinking, GIF Found: True, Score: 100, Feedback: Good
+Word: i am thinking, GIF Found: True, Score: 100, Feedback: Good
+Word: i dont understand could you please explain, GIF Found: True, Score: 95, Feedback: Good
+Word: i dont understand could you please explain, GIF Found: True, Score: 95, Feedback: Good
+Word: i dont understand could you please explain, GIF Found: True, Score: 95, Feedback: Good
+Word: i dont understand could you please explain, GIF Found: True, Score: 95, Feedback: Good
+Word: i dont understand could you please explain, GIF Found: True, Score: 95, Feedback: Good
+Word: i dont understand could you please explain, GIF Found: True, Score: 95, Feedback: Good
+Word: i dont understand could you please explain, GIF Found: True, Score: 95, Feedback: Good
+Word: i dont understand could you please explain, GIF Found: True, Score: 95, Feedback: Good
+Word: are you angry, GIF Found: True, Score: 86, Feedback: Bad
+Word: are you angry, GIF Found: True, Score: 86, Feedback: Bad
+Word: ahemdabad, GIF Found: True, Score: 89, Feedback: Good
+Word: ahemdabad, GIF Found: True, Score: 89, Feedback: Bad
+Word: ahemdabad, GIF Found: True, Score: 89, Feedback: Bad
+Word: good afternoon, GIF Found: True, Score: 100, Feedback: Good
+Word: good afternoon, GIF Found: True, Score: 100, Feedback: Good
+Word: good afternoon, GIF Found: True, Score: 100, Feedback: Good
+Word: good afternoon, GIF Found: True, Score: 100, Feedback: Good
+Word: good afternoon, GIF Found: True, Score: 100, Feedback: Good
+Word: i will keep you updated on the progress, GIF Found: True, Score: 99, Feedback: Good
+Word: i will keep you updated on the progress, GIF Found: True, Score: 99, Feedback: Good
+Word: i will keep you updated on the progress, GIF Found: True, Score: 99, Feedback: Good
+Word: i will keep you updated on the progress, GIF Found: True, Score: 99, Feedback: Good
+Word: i will keep you updated on the progress, GIF Found: True, Score: 99, Feedback: Good
+Word: cat, GIF Found: True, Score: 90, Feedback: Good
+Word: cat, GIF Found: True, Score: 90, Feedback: Good
+Word: what is the problem, GIF Found: True, Score: 100, Feedback: Good
+Word: what is the problem, GIF Found: True, Score: 100, Feedback: Good
+Word: what is the problem, GIF Found: True, Score: 100, Feedback: Good
+Word: what is the problem, GIF Found: True, Score: 100, Feedback: Good
+Word: what is the problem, GIF Found: True, Score: 100, Feedback: Good
+Word: what is today's date, GIF Found: True, Score: 86, Feedback: Good
+Word: what is today's date, GIF Found: True, Score: 86, Feedback: Good
+Word: what is today's date, GIF Found: True, Score: 86, Feedback: Good
+Word: what is today's date, GIF Found: True, Score: 86, Feedback: Good
+Word: what is today's date, GIF Found: True, Score: 86, Feedback: Good
+Word: what is today's date, GIF Found: True, Score: 86, Feedback: Good
+Word: what is today's date, GIF Found: True, Score: 86, Feedback: Good
+Word: what is your name, GIF Found: True, Score: 90, Feedback: Good
+Word: what is your name, GIF Found: True, Score: 90, Feedback: Good
+Word: what is your name, GIF Found: True, Score: 90, Feedback: Good
+Word: what is your name, GIF Found: True, Score: 90, Feedback: Good
+Word: what is your mobile number, GIF Found: True, Score: 86, Feedback: Good
+Word: what is your mobile number, GIF Found: True, Score: 86, Feedback: Good
+Word: what is your mobile number, GIF Found: True, Score: 86, Feedback: Good
+Word: what is your mobile number, GIF Found: True, Score: 86, Feedback: Good
+Word: what is your mobile number, GIF Found: True, Score: 86, Feedback: Good
+Word: what is your mobile number, GIF Found: True, Score: 86, Feedback: Good
+Word: what is your mobile number, GIF Found: True, Score: 86, Feedback: Good
+Word: what is your mobile number, GIF Found: True, Score: 86, Feedback: Good
+Word: what is your mobile number, GIF Found: True, Score: 86, Feedback: Good
+Word: sign language interpreter, GIF Found: True, Score: 90, Feedback: Good
+Word: sign language interpreter, GIF Found: True, Score: 90, Feedback: Good
+Word: sign language interpreter, GIF Found: True, Score: 90, Feedback: Good
+Word: sign language interpreter, GIF Found: True, Score: 90, Feedback: Good
+Word: sign language interpreter, GIF Found: True, Score: 90, Feedback: Good
+Word: sign language interpreter, GIF Found: True, Score: 90, Feedback: Good
+Word: sign language interpreter, GIF Found: True, Score: 90, Feedback: Good
+Word: where is the police station, GIF Found: True, Score: 100, Feedback: Good
+Word: where is the police station, GIF Found: True, Score: 100, Feedback: Good
+Word: where is the police station, GIF Found: True, Score: 100, Feedback: Good
+Word: where is the police station, GIF Found: True, Score: 100, Feedback: Good
+Word: where is the police station, GIF Found: True, Score: 100, Feedback: Good
+Word: where is the police station, GIF Found: True, Score: 100, Feedback: Good
+Word: where is the police station, GIF Found: True, Score: 100, Feedback: Good
+Word: playstation, GIF Found: False, Score: None, Feedback: Good
+Word: i am fine, GIF Found: True, Score: 86, Feedback: Bad
+Word: i am fine, GIF Found: True, Score: 86, Feedback: Bad
+Word: i am fine, GIF Found: True, Score: 86, Feedback: Bad
+Word: good morning, GIF Found: True, Score: 100, Feedback: Good
+Word: good morning, GIF Found: True, Score: 100, Feedback: Good
+Word: good morning, GIF Found: True, Score: 100, Feedback: Good
+Word: good morning, GIF Found: True, Score: 100, Feedback: Good
+Word: good morning, GIF Found: True, Score: 100, Feedback: Good
+Word: good morning, GIF Found: True, Score: 100, Feedback: Good
+Word: good morning, GIF Found: True, Score: 100, Feedback: Good
+Word: good morning, GIF Found: True, Score: 100, Feedback: Good
+Word: good morning, GIF Found: True, Score: 100, Feedback: Good
+Word: good morning, GIF Found: True, Feedback: Good, Score: 100
+Word: good morning, GIF Found: True, Feedback: Good, Score: 100
+Word: good morning, GIF Found: True, Feedback: Good, Score: 100
+Word: i need some help, GIF Found: True, Feedback: Good, Score: 100
+Word: i need some help, GIF Found: True, Feedback: Good, Score: 100
+Word: i need some help, GIF Found: True, Feedback: Good, Score: 100
+Word: i need some help, GIF Found: True, Feedback: Good, Score: 100
+Word: i need some help, GIF Found: True, Feedback: Good, Score: 100
+Word: i need some help, GIF Found: True, Feedback: Good, Score: 100
+Word: i need some help, GIF Found: True, Feedback: Good, Score: 100
+Word: i need some help, GIF Found: True, Feedback: Good, Score: 100
+Word: i need some help, GIF Found: True, Feedback: Good, Score: 100
+Word: i need some help, GIF Found: True, Feedback: Good, Score: 100
+Word: any questions, GIF Found: True, Feedback: Good, Score: 90
+Word: any questions, GIF Found: True, Feedback: Good, Score: 90
+Word: any questions, GIF Found: True, Feedback: Good, Score: 90
+Word: any questions, GIF Found: True, Feedback: Good, Score: 90
+Word: any questions, GIF Found: True, Feedback: Good, Score: 90
+Word: any questions, GIF Found: True, Feedback: Bad, Score: 90
+Word: take care, GIF Found: True, Feedback: Good, Score: 100
+Word: take care, GIF Found: True, Feedback: Good, Score: 100
+Word: take care, GIF Found: True, Feedback: Good, Score: 100
+Word: take care, GIF Found: True, Feedback: Good, Score: 100
+Word: take care, GIF Found: True, Feedback: Good, Score: 100
+Word: tuesday, GIF Found: True, Feedback: Good, Score: 100
+Word: tuesday, GIF Found: True, Feedback: Good, Score: 100
+Word: tuesday, GIF Found: True, Feedback: Good, Score: 100
+Word: where can i find, GIF Found: True, Feedback: Good, Score: 90
+Word: where can i find, GIF Found: True, Feedback: Good, Score: 90
+Word: where can i find, GIF Found: True, Feedback: Good, Score: 90
+Word: you are wrong, GIF Found: True, Feedback: Good, Score: 100
+Word: you are wrong, GIF Found: True, Feedback: Good, Score: 100
+Word: you are wrong, GIF Found: True, Feedback: Good, Score: 100
+Word: you are wrong, GIF Found: True, Feedback: Good, Score: 100
+Word: hello, GIF Found: True, Feedback: Good, Score: 100
+Word: good morning, GIF Found: True, Feedback: Good, Score: 100
+Word: you are wrong, GIF Found: True, Feedback: Good, Score: 100
+Word: december, GIF Found: True, Feedback: Good
+Word: december, GIF Found: True, Feedback: Bad
+Word: december, GIF Found: True, Feedback: Good
+Word: december, GIF Found: True, Feedback: Bad
+Word: hello, GIF Found: True, Feedback: Good
+Word: hello, GIF Found: True, Feedback: Bad
+Word: do you want to join to me, GIF Found: True, Feedback: Good, Score: 90
+Word: do you want to join to me, GIF Found: True, Feedback: Good, Score: 90
+Word: how was your day, GIF Found: True, Feedback: Good, Score: 100
+Word: how was your day, GIF Found: True, Feedback: Good, Score: 100
+Word: i will keep you updated on the progress, GIF Found: True, Feedback: Good, Score: 95
+Word: i will keep you updated on the progress, GIF Found: True, Feedback: Good, Score: 95
+Word: i will keep you updated on the progress, GIF Found: True, Feedback: Good, Score: 95
+Word: can i help you, GIF Found: True, Feedback: Good, Score: 87
+Word: hello, GIF Found: True, Feedback: Good, Score: 90
+Word: hello, GIF Found: True, Feedback: Bad, Score: 90
+Word: greetings, GIF Found: True, Feedback: Good, Score: 100
+Word: social interaction, GIF Found: True, Feedback: Good, Score: 100
+Word: please let me know if you have any questions, GIF Found: True, Feedback: Good, Score: 95
+Word: sit down, GIF Found: True, Feedback: Good, Score: 90
+Word: sit down, GIF Found: True, Feedback: Good, Score: 90
+Word: hello, GIF Found: True, Feedback: Good, Score: 100
+Word: hello, GIF Found: True, Feedback: Good, Score: 100
+Word: hello, GIF Found: True, Feedback: Bad, Score: 100
